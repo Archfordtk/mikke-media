@@ -170,7 +170,7 @@ a {
         /*Top and Bottom*/
         250px 0px
         /*left and right*/ ;
-    background-image: url("C://Users//Ray//Desktop//MikkePortforlio//Portforlio-imgs//maxresdefault.jpg");
+    background-image: url("Portforlio-imgs//maxresdefault.jpg");
     background-size: cover;
 }
 
@@ -330,12 +330,6 @@ a {
 }
 
 /*About-us*/
-
-body #portforlio-section {
-    background-image: url("Portforlio-imgs//mulyadi-hJfM4pXoVbQ-unsplash.jpg");
-    background-size: 700px;
-    margin: 16px;
-}
 
 body #about-section {
     background-image: url("Portforlio-imgs//david-werbrouck-5GwLlb-_UYk-unsplash.jpg");
