@@ -166,6 +166,9 @@ a {
 }
 
 #hero-section {
+    margin-top:10px;
+    width:100%;
+    heaight:100%;
     background-image: url("Portforlio-imgs//maxresdefault.jpg");
     background-size: cover;
 }
@@ -204,7 +207,7 @@ span {
 
 .btn {
     margin-left: 150px;
-    margin-top: 80px;
+    margin-top: 95px;
     padding: 20px 30px;
     background-color: black;
     color: rgb(241, 241, 22);
